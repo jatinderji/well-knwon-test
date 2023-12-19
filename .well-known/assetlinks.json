@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.dialcaresaas.app",
+               "sha256_cert_fingerprints": ["FA:08:29:7A:70:90:A6:93:9A:00:3D:FD:E5:C2:81:D8:C4:03:29:46:63:CF:C7:62:58:A8:D9:80:13:C1:2B:F2"] }
+}]

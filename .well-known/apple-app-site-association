@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "YSPHC3SP6G.com.dialcare.patientportal",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
